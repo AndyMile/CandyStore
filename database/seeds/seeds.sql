@@ -1,0 +1,18 @@
+INSERT INTO customers (`name`, candy, eaten) VALUES 
+('Annika', 'Geisha', 100),
+('Jonas', 'Geisha', 200),
+('Jonas', 'Kexchoklad', 100),
+('Aadya', 'Notchoklad', 2),
+('Jonas', 'Notchoklad', 3),
+('Jane', 'Notchoklad', 17),
+('Annika', 'Geisha', 100),
+('Jonas', 'Geisha', 700),
+('Jane', 'Notchoklad', 4),
+('Aadya', 'Center', 7),
+('Jonas', 'Geisha', 900),
+('Jane', 'Notchoklad', 1),
+('Jonas', 'Kexchoklad', 12),
+('Jonas', 'Plopp', 40),
+('Jonas', 'Center', 27),
+('Aadya', 'Center', 2),
+('Annika', 'Center', 8);
